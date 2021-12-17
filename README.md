@@ -3,4 +3,5 @@ This game was made as part of a 48 hour hackathon. The theme of game was to crea
 
 ## Other Contributors
 James Hicks - https://leyamez.itch.io/
+
 Tyler Lee
