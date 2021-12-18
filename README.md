@@ -6,7 +6,7 @@ This game was made as part of a 48 hour hackathon. The theme of game was to crea
 # Some Images
 ![Menu Screen](https://github.com/mrsaeto/watereddownwaste/blob/main/images/w1.PNG)
 ![Gameplay](https://github.com/mrsaeto/watereddownwaste/blob/main/images/w2.PNG)
-![Gameplay](https://github.com/mrsaeto/watereddownwaste/blob/main/images/w3.PNG)
+![Gameplay](https://github.com/mrsaeto/watereddownwaste/blob/main/images/w3.png)
 ![Death Screen](https://github.com/mrsaeto/watereddownwaste/blob/main/images/w4.PNG)
 
 ## Other Contributors
